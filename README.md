@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@blaze_7770" target="blank"><img src="https://img.shields.io/twitter/follow/@blaze_7770?logo=twitter&style=for-the-badge" alt="@blaze_7770" /></a> </p>
 
-- 🌱 I’m currently learning **React -Native**
+- 🌱 I’m currently learning **Django**
 
 - 🤝 I’m looking for help with **Coding**
 
